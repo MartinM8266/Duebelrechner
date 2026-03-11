@@ -664,7 +664,7 @@ export default function DuebelCalculator() {
                 Kein Ersatz für ingenieurtechnische Prüfung.
               </span>
             </div>
-          </Card>
+          </Card> 
 
         </div>
       </div>
